@@ -1,5 +1,5 @@
 import playGame from '../index.js';
-import { getRandomInt } from '../utils.js';
+import getRandomInt from '../utils.js';
 
 const playBrainEven = () => {
   const isEven = (number) => number % 2 === 0;
