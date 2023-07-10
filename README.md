@@ -13,3 +13,6 @@ https://asciinema.org/a/wGa8mfGlapzV7rKdXnOgGY5Or
 
 ## asciinema brain-progression
 https://asciinema.org/a/8SMgQjORyF1u5kyc3E7y2e9Eo
+
+## asciinema brain-prime
+https://asciinema.org/a/o3bphnu07Vxzdg8seeD0FU3Ov
